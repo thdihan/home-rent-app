@@ -1,0 +1,6 @@
+{
+  "name": "ToLetBD - House Rent Marketplace",
+  "description": "A marketplace for renters to find houses and owners to list properties, featuring a credit-based unlocking system for private listings data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

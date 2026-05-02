@@ -1,0 +1,48 @@
+{
+  "divisions": [
+    "Dhaka",
+    "Chittagong",
+    "Rajshahi",
+    "Khulna",
+    "Barisal",
+    "Sylhet",
+    "Rangpur",
+    "Mymensingh"
+  ],
+  "districts": {
+    "Dhaka": ["Dhaka", "Gazipur", "Narayanganj"],
+    "Chittagong": ["Chittagong", "Cox's Bazar", "Cumilla"],
+    "Rajshahi": [],
+    "Khulna": [],
+    "Barisal": [],
+    "Sylhet": [],
+    "Rangpur": [],
+    "Mymensingh": []
+  },
+  "areas": {
+    "Dhaka": ["Gulshan", "Banani", "Dhanmondi", "Uttara", "Mirpur", "Mohakhali", "Bashundhara"],
+    "Gazipur": ["Tongi", "Board Bazar"],
+    "Narayanganj": ["Chashara", "Fatullah"],
+    "Chittagong": ["Agrabad", "Nasirabad", "Pahartali"],
+    "Cox's Bazar": ["Kolatoli", "Sadar"],
+    "Cumilla": []
+  },
+  "subAreas": {
+    "Gulshan": ["Gulshan 1", "Gulshan 2"],
+    "Banani": ["Block A", "Block B", "Block C", "Block F", "Kakoli"],
+    "Dhanmondi": ["Section 8", "Section 15", "Section 32"],
+    "Uttara": ["Sector 1", "Sector 3", "Sector 4", "Sector 7", "Sector 11", "Sector 14"],
+    "Mirpur": ["Mirpur 1", "Mirpur 2", "Mirpur 10", "Mirpur 12", "Pallabi", "DOHS"],
+    "Mohakhali": ["DOHS", "Wireless", "Amtoli"],
+    "Bashundhara": ["Block A", "Block B", "Block C", "Block D", "Block E"],
+    "Tongi": [],
+    "Board Bazar": [],
+    "Chashara": [],
+    "Fatullah": [],
+    "Agrabad": [],
+    "Nasirabad": [],
+    "Pahartali": [],
+    "Kolatoli": [],
+    "Sadar": []
+  }
+}
